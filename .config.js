@@ -149,7 +149,7 @@ module.exports = {
       '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e', //   YFI
       '0x111111111117dc0aa78b770fa6a738034120c302', //   1INCH
     ]),
-    nearNodeUrl: 'https://archival-rpc.mainnet.near.org/',
+    nearNodeUrl: 'http://34.133.184.37:3030',
     nearWalletUrl: 'https://wallet.near.org',
     nearExplorerUrl: 'https://explorer.near.org',
     nearNetworkId: 'mainnet',
